@@ -1,4 +1,4 @@
-# 🐝 Anomaly Detection in Beehive Environmental Data Autoencoder ML Methods
+# 🐝 Anomaly Detection in Beehive Environmental Data: Autoencoder and ML Methods
 
 ![Project Banner](https://raw.githubusercontent.com/snsamia/Anomaly-Detection-in-Beehive-Environmental-Data-Autoencoder-ML-Methods-/main/beehive_project_banner_fancy.png)
 
