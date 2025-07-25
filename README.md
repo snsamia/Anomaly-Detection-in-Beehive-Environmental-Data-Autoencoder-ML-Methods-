@@ -29,7 +29,7 @@ This project demonstrates anomaly detection in beehive environmental sensor data
 
  ##  🛠️ Future Improvements
  
-- Add LSTM Autoencoder for time series anomaly detection
+- LSTM Autoencoder for time series anomaly detection
 - Deploy as a Streamlit app
 - Connect to real-time IoT data streams
 
