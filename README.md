@@ -1,10 +1,9 @@
-# 🐝 Anomaly-Detection-in-Beehive-Environmental-Data-Autoencoder-ML-Methods-
+# 🐝 Anomaly Detection in Beehive Environmental Data Autoencoder ML Methods
 
 ![Project Banner](https://raw.githubusercontent.com/snsamia/Anomaly-Detection-in-Beehive-Environmental-Data-Autoencoder-ML-Methods-/main/beehive_project_banner_fancy.png)
 
-
-
-This project demonstrates anomaly detection in beehive environmental sensor data using both traditional machine learning and deep learning methods.
+A comprehensive anomaly detection system for beehive environmental data using both traditional machine learning (One-Class SVM, Isolation Forest) and deep learning (Autoencoder) techniques.
+The project leverages real-world sensor data to identify abnormal patterns in temperature and humidity, providing valuable insights for precision beekeeping and IoT-based environmental monitoring
 
 ---
 
