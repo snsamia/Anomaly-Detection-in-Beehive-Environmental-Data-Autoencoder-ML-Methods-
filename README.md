@@ -25,6 +25,8 @@ This project demonstrates anomaly detection in beehive environmental sensor data
 - 🎯 Contour plots to show anomaly decision regions  
 - 🧠 Thresholding (95th percentile) to identify anomalies
 
+---
+
  ##  🛠️ Future Improvements
  
 - Add LSTM Autoencoder for time series anomaly detection
